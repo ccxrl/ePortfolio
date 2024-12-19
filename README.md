@@ -1,6 +1,6 @@
 # ePortfolio
 
-This is a simple ePortfolio project created using HTML, CSS, and JavaScript. It serves as a personal portfolio to showcase my work, skills, and achievements. The website is designed to be run locally on a browser and does not involve any backend or database technologies.
+This is a simple ePortfolio project created using HTML, CSS, and JavaScript. It serves as a personal portfolio to showcase my work, skills, and achievements.
 
 ## Technologies Used
 
