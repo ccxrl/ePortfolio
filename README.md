@@ -14,7 +14,7 @@ This is a simple ePortfolio project created using HTML, CSS, and JavaScript. It 
 2. Open the `index.html` file in your preferred browser to view the ePortfolio.
 3. To contribute, feel free to fork the repository and submit a pull request with your changes.
 
-[image](images/main.png)
-[image](images/about_me.png)
-[image](images/projects.png)
-[image](images/contact.png)
+![image](images/main.png)
+![image](images/about_me.png)
+![image](images/projects.png)
+![image](images/contact.png)
